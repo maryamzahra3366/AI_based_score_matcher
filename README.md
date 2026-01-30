@@ -49,8 +49,8 @@ Fairness & bias analysis
 
 👨‍💻 Author
 
-Wajiha Waqar
-IT Undergraduate | Data Science & Quant Researcher
+Maryam Zahra
+IT Undergraduate | Cybersecurity Enthusiast
 
 ---
 
@@ -73,3 +73,4 @@ Open **terminal / command prompt** in your project folder.
 ### 🔹 Initialize Git
 ```bash
 git init
+
